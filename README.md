@@ -126,7 +126,7 @@ and is knowledgeable enough now to decide which electives to take.
 If you've never written a for-loop, or don't know what a string is in programming, start here. This course is self-paced, allowing you to adjust the number of hours you spend per week to meet your needs.
 
 **Topics covered**:
-`simple programs`
+`simple programs ✅`
 `simple data structures`
 
 Courses | Duration | Effort | Prerequisites | Discussion
